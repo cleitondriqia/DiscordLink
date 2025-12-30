@@ -1,1 +1,8 @@
-
+name: DiscordLink
+version: 1.0
+main: br.discordlink.DiscordLinkPlugin
+author: EricGracioto
+description: Plugin de vinculação Discord para Minecraft
+commands:
+  vincular:
+    description: Gera um código para vincular com o Discord
